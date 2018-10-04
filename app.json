@@ -1,7 +1,7 @@
 {
-    "name": "eMbeta Cloud",
-    "description": "Directly upload files to Cloud",
-    "repository": "https://github.com/Mrigank11/embetacloud",
+    "name": "rmcloud Cloud",
+    "description": "Directly",
+    "repository": "https://github.com/rahulm7/emcloud",
     "env": {
         "GOOGLE_CLIENT_ID": {
             "description": "Google Project's Client ID"
