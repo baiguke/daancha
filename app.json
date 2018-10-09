@@ -1,7 +1,7 @@
 {
-    "name": "rmcloud Cloud",
-    "description": "Directly",
-    "repository": "https://github.com/rahulm7/emcloud",
+    "name": "daancha",
+    "description": "daancha",
+    "repository": "https://github.com/baiguke/daancha",
     "env": {
         "GOOGLE_CLIENT_ID": {
             "description": "Google Project's Client ID"
